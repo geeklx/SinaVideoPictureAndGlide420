@@ -1,0 +1,9 @@
+include ':app'
+//libs
+include ':jiaozivideoplayer'
+include ':GlideImageView'
+
+//demo module
+include ':p001_videoplayer'
+include ':p002_glide420'
+include ':p003_voiceplayer'

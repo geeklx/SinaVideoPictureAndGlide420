@@ -1,0 +1,156 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,175,221,261,303,345,475,534,591,835",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14,20",
+                        "endColumns": "61,57,45,39,41,41,129,58,56,12,12",
+                        "endOffsets": "112,170,216,256,298,340,470,529,586,830,1206"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,100,142,246,301",
+                        "endColumns": "44,41,103,54,59",
+                        "endOffsets": "95,137,241,296,356"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,147,260,316",
+                        "endColumns": "49,41,112,55,58",
+                        "endOffsets": "100,142,255,311,370"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,151,274,328",
+                        "endColumns": "47,47,122,53,60",
+                        "endOffsets": "98,146,269,323,384"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,147,260,316",
+                        "endColumns": "49,41,112,55,58",
+                        "endOffsets": "100,142,255,311,370"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,151,274,328",
+                        "endColumns": "47,47,122,53,60",
+                        "endOffsets": "98,146,269,323,384"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,100,142,246,301",
+                        "endColumns": "44,41,103,54,59",
+                        "endOffsets": "95,137,241,296,356"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,175,221,261,303,345,475,534,591,835",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14,20",
+                        "endColumns": "61,57,45,39,41,41,129,58,56,12,12",
+                        "endOffsets": "112,170,216,256,298,340,470,529,586,830,1206"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,97,135,199,253",
+                        "endColumns": "41,37,63,53,54",
+                        "endOffsets": "92,130,194,248,303"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,97,135,199,253",
+                        "endColumns": "41,37,63,53,54",
+                        "endOffsets": "92,130,194,248,303"
+                    }
+                }
+            ]
+        }
+    ]
+}

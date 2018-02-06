@@ -1,0 +1,47 @@
+apply plugin: 'com.android.application'
+def config = rootProject.ext //配置
+def librarys = rootProject.ext.dependencies //依赖
+android {
+    compileSdkVersion config.compileSdkVersion
+    buildToolsVersion config.buildToolsVersion
+    defaultConfig {
+        applicationId "com.example.shining.p002_glide420"
+        minSdkVersion config.minSdkVersion
+        targetSdkVersion config.targetSdkVersion
+        versionCode config.versionCode
+        versionName "p002_glide420" + config.versionName
+//        javaCompileOptions {
+//            annotationProcessorOptions {
+//                includeCompileClasspath true
+//            }
+//        }
+        lintOptions {
+            abortOnError false
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.1'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+    //common libs
+    implementation librarys.design
+    implementation librarys.appcompatV7
+    implementation librarys.recyclerviewv7
+    implementation librarys.cardviewv7
+    //other project
+    implementation librarys.percent
+    implementation librarys.photoView
+//    implementation librarys.glide41
+    implementation project(':GlideImageView')
+    //other aar
+//    compile(name: 'geekglidelibrary', ext: 'aar')
+}

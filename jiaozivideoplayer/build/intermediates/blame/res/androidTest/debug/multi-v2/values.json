@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,175,221,261,303,345,475,534,591,835",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14,20",
+                        "endColumns": "61,57,45,39,41,41,129,58,56,12,12",
+                        "endOffsets": "112,170,216,256,298,340,470,529,586,830,1206"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,117,175,221,261,303,345,475,534,591,835",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14,20",
+                        "endColumns": "61,57,45,39,41,41,129,58,56,12,12",
+                        "endOffsets": "112,170,216,256,298,340,470,529,586,830,1206"
+                    }
+                }
+            ]
+        }
+    ]
+}

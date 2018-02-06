@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-es\\values-es.xml",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_myapplicationlibrary\\MyApplicationaloneProject\\codes\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,151,274,328",
+                        "endColumns": "47,47,122,53,60",
+                        "endOffsets": "98,146,269,323,384"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-es\\values-es.xml",
+            "map": [
+                {
+                    "source": "D:\\githubproject\\github_other_master_code\\code\\SinaVideoPictureAndGlide420\\jiaozivideoplayer\\build\\intermediates\\bundles\\debug\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,151,274,328",
+                        "endColumns": "47,47,122,53,60",
+                        "endOffsets": "98,146,269,323,384"
+                    }
+                }
+            ]
+        }
+    ]
+}
