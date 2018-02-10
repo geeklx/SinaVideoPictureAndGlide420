@@ -28,7 +28,7 @@ public class MainActivityFull extends AppCompatActivity {
                 JZVideoPlayer.FULLSCREEN_ORIENTATION = ActivityInfo.SCREEN_ORIENTATION_SENSOR;
                 JZVideoPlayer.NORMAL_ORIENTATION = ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE;
                 JZVideoPlayerStandard.startFullscreen(MainActivityFull.this, JZVideoPlayerStandard.class,
-                        "http://oyq9jmgpc.bkt.clouddn.com/013.mp4", "视频标题");
+                        "http://jiuzhidao.com/data/upload/shop/store/goods/1/2018/02/07/1_05713237038355736.mp4", "视频标题");
             }
         });
 
